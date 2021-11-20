@@ -172,4 +172,4 @@ def main(ctx, metadata):
         if proxy != "none":
             return proxy
 
-    return Final"
+    return Final
